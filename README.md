@@ -1,1 +1,1 @@
-# -thesis--cyber-physical-systems-resiliency
+# thesis--cyber-physical-systems-resiliency
